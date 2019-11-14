@@ -151,10 +151,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VisioDocumentTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="VisioDocumentTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/dovnard/visio/VisioDocumentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="76" selection-start="3608" selection-end="3608" vertical-scroll-proportion="2.5680852">
+            <state line="93" column="31" selection-start="3884" selection-end="3907" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="3" selection-start="968" selection-end="968" vertical-scroll-proportion="0.7768052">
               <folding />
             </state>
           </provider>
@@ -176,15 +185,6 @@
               <folding>
                 <marker date="1573722112179" expanded="true" signature="8501:9034" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connect.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/dovnard/visio/Connect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="5" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -217,7 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/dovnard/visio/XmlFileWriter.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/dovnard/visio/XmlContent.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/dovnard/visio/ShapeType.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/dovnard/visio/ShapeFactory.java" />
@@ -233,6 +232,7 @@
         <option value="$PROJECT_DIR$/src/main/java/org/dovnard/visio/VisioPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/dovnard/visio/VisioPageImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/dovnard/visio/VisioDocumentTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -453,7 +453,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="editor" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
@@ -666,8 +666,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495854" sideWeight="0.6703297" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872254" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41893938" sideWeight="0.7966102" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20338982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41893938" sideWeight="0.7966102" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20338982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -740,13 +740,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/dovnard/visio/ShapeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="21" selection-start="104" selection-end="113" vertical-scroll-proportion="0.1408284">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/dovnard/visio/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="35" selection-start="155" selection-end="155" vertical-scroll-proportion="0.16094674">
@@ -857,7 +850,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/dovnard/visio/VisioDocumentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="76" selection-start="3608" selection-end="3608" vertical-scroll-proportion="2.5680852">
+        <state line="93" column="31" selection-start="3884" selection-end="3907" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="3" selection-start="968" selection-end="968" vertical-scroll-proportion="0.7768052">
           <folding />
         </state>
       </provider>
