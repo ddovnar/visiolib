@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="false" />
+    <inspection_tool class="AndroidDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidElementNotAllowed" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AndroidNonConstantResIdsInSwitch" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AndroidUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="BoundFieldAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ComponentNotRegistered" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="CHECK_ACTIONS" value="true" />
+      <option name="IGNORE_NON_PUBLIC" value="true" />
+    </inspection_tool>
+    <inspection_tool class="ComponentRegistrationProblems" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="DialogTitleCapitalization" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicateMnemonic" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ExtensionPointBeanClass" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FileEqualsUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GtkPreferredJComboBoxRenderer" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InjectionNotApplicable" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="InspectionDescriptionNotFoundInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InspectionMappingConsistency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InspectionUsingGrayColors" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="IntentionDescriptionNotFoundInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxDefaultTag" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JavaFxUnresolvedFxIdReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LanguageMismatch" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="CHECK_NON_ANNOTATED_REFERENCES" value="true" />
+    </inspection_tool>
+    <inspection_tool class="MissingMnemonic" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NoButtonGroup" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NoLabelFor" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NoScrollPane" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OneButtonGroup" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PluginXmlValidity" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="UndesirableClassUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnknownLanguage" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UnsafeVfsRecursion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UseJBColor" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
